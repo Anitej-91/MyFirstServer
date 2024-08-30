@@ -1,0 +1,12 @@
+{
+   "1": {
+      "name": "Ramesh",
+      "age": 27,
+      "married": "False"
+   },
+   "2": {
+      "name": "Raghav",
+      "age": 30,
+      "married": true
+   }
+}
