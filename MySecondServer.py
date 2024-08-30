@@ -4,7 +4,7 @@ import json
 
 app = FastAPI()
 
-file_path = r"D:/Python/BackEnd/MySecondServer/data.json"
+file_path = r"./data.json"
 with open(file_path,'r') as file:
     userdata = json.load(file)
 
